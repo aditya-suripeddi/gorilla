@@ -6,9 +6,10 @@ by deploying a hello world spring boot app named gorilla
 
 ### Result
 
-Expose spring boot application as a service on minikube k8s cluster running locally
-by using definitions for service, deployment from k8s/service.yaml, k8s/deployment.yaml
-with k8s/configmap.yaml for externalized configuration
+Exposed spring boot application as a service on minikube k8s cluster running locally.
+
+The definitions for service, deployment can be found at <em>k8s/service.yaml</em>, <em>k8s/deployment.yaml</em>.
+<em>k8s/configmap.yaml</em> for externalized configuration
 
 
 ### Future Work
