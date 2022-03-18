@@ -8,8 +8,8 @@ by deploying a hello world spring boot app named gorilla
 
 Exposed spring boot application as a service on minikube k8s cluster running locally.
 
-The definitions for service, deployment can be found at <em>k8s/service.yaml</em>, <em>k8s/deployment.yaml</em>.
-<em>k8s/configmap.yaml</em> for externalized configuration
+The definitions for service, deployment can be found at <em>k8s/service.yaml</em>, <em>k8s/deployment.yaml</em> and 
+<em>k8s/configmap.yaml</em> is used for externalized configuration
 
 
 ### Future Work
