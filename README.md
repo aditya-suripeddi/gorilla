@@ -101,25 +101,25 @@ Add comments to explain settings in k8s/yaml files
 ### References: 
 
 
-1. [stackoverflow link](https://stackoverflow.com/a/66598466)
+1. [Stackoverflow link](https://stackoverflow.com/a/66598466)
 
 
-2. [spring-on-kubernetes-topical-guide](https://spring.io/guides/topicals/spring-on-kubernetes/)
+2. [Spring-on-kubernetes-topical-guide](https://spring.io/guides/topicals/spring-on-kubernetes/)
 
 
-3. [spring-boot-docker-topical-guide](https://spring.io/guides/topicals/spring-boot-docker/)
+3. [Spring-boot-docker-topical-guide](https://spring.io/guides/topicals/spring-boot-docker/)
 
 
 4. [Kubernetes labs](https://labs.play-with-k8s.com/)
 
 
-5. [how-to-deploy-dockerized-app-to-kubernetes](https://medium.com/@sarathtchander/how-to-deploy-dockerized-spring-boot-app-in-k8s-minikube-for-beginners-378a1b0df153)
+5. [How-to-deploy-dockerized-app-to-kubernetes](https://medium.com/@sarathtchander/how-to-deploy-dockerized-spring-boot-app-in-k8s-minikube-for-beginners-378a1b0df153)
 
 
-6. [spring-boot-apps-with-minikube-baeldung](https://www.baeldung.com/spring-boot-minikube?__cf_chl_tk=VCvE1u0lEkyeKZktAeYlQ__9UlWl6WNX6CV5EajGECg-1638361741-0-gaNycGzNCJE)
+6. [Spring-boot-apps-with-minikube-baeldung](https://www.baeldung.com/spring-boot-minikube?__cf_chl_tk=VCvE1u0lEkyeKZktAeYlQ__9UlWl6WNX6CV5EajGECg-1638361741-0-gaNycGzNCJE)
 
 
-8. [edit-deployment-imagepullpolicy-never](https://www.talkingdotnet.com/how-to-run-locally-build-docker-images-with-kubernetes/)
+8. [Edit-deployment-imagepullpolicy-never](https://www.talkingdotnet.com/how-to-run-locally-build-docker-images-with-kubernetes/)
 
 
-7. [minikube-and-docker-common-registry](https://www.bogotobogo.com/DevOps/Docker/Docker_Kubernetes_Minikube.php)
+7. [Minikube-and-docker-common-registry](https://www.bogotobogo.com/DevOps/Docker/Docker_Kubernetes_Minikube.php)
