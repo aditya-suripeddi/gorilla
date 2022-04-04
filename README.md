@@ -83,15 +83,17 @@ Add comments to explain settings in k8s/yaml files
        NAME                               DESIRED   CURRENT   READY   AGE
        replicaset.apps/gorilla-c944df97   1         1         1       2m8s
 
-   /path/to/gorilla$ minikube service --url gorilla
+   /path/to/gorilla$ minikube service --url gorilla  # also try:  minikube service gorilla
    
         http://[ip:][port]
    ```
  
    Visit  http://ip:port/hello from your browser
+   
 
+3. ```$ kubectl port-forward service/gorilla 8080:8080``` to access the service on <em>localhost:8080</em> 
 
-3.  ```$minikube delete``` can be handy to delete the k8s cluster / teardown
+4. ```$ minikube delete``` can be handy to delete the k8s cluster / teardown
 
 
 ### Output Screenshot 
